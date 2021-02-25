@@ -45,4 +45,4 @@ EC0重命名EC，ACPI添加仿冒SSDT-EC
 
 存在不足： AR9485驱动已停跟新，存在信号显示掉格不影响网速！
 硬件无蓝牙。声卡Alc269存在极少情况无法驱动，重启电脑就好。
-![https://github.com/mjs520/Lenovo-G480/blob/main/screenshot0.jpg)
+![ss](https://github.com/mjs520/Lenovo-G480/blob/main/screenshot0.jpg)
