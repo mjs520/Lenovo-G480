@@ -11,9 +11,12 @@ CPU    i3-3110-主频2.4GHZ
 无蓝牙
 
 
+
 ![ss](https://github.com/mjs520/Lenovo-G480/blob/main/screenshot0.jpg)
 ![ss](https://github.com/mjs520/Lenovo-G480/blob/main/QQ20210221-103454.png)
 ![ss](https://github.com/mjs520/Lenovo-G480/blob/main/QQ20210208-102305.png)
+
+
 
 
          联想G480已完善如下：
