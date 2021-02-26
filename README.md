@@ -42,7 +42,7 @@ EC0重命名EC，ACPI添加仿冒SSDT-EC
 
 修改DSDT，加载LPC硬件ID加载原生电源管理
 
-变频正常-(CPUFried+sSDTPRGen)
+变频正常 (CPUFried+sSDTPRGen)
 
 添加亮度DSDT ~HD4000亮度补丁+GFX0重命名IGUP+ACPIBacklight.kext亮度滑块正常。
 
