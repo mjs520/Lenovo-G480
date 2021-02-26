@@ -10,6 +10,12 @@ CPU    i3-3110-主频2.4GHZ
 
 无蓝牙
 
+
+![ss](https://github.com/mjs520/Lenovo-G480/blob/main/screenshot0.jpg)
+![ss](https://github.com/mjs520/Lenovo-G480/blob/main/QQ20210221-103454.png)
+![ss](https://github.com/mjs520/Lenovo-G480/blob/main/QQ20210208-102305.png)
+
+
          联想G480已完善如下：
 睡眠正常
 
@@ -49,7 +55,4 @@ EC0重命名EC，ACPI添加仿冒SSDT-EC
 
 存在不足： AR9485驱动已停跟新，存在信号显示掉格不影响网速！
 硬件无蓝牙。声卡Alc269存在极少情况无法驱动，重启电脑就好。
-
-![ss](https://github.com/mjs520/Lenovo-G480/blob/main/screenshot0.jpg)
-![ss](https://github.com/mjs520/Lenovo-G480/blob/main/QQ20210221-103454.png)
-![ss](https://github.com/mjs520/Lenovo-G480/blob/main/QQ20210208-102305.png)
+  
