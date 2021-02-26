@@ -28,7 +28,7 @@ CPU    i3-3110-主频（2.4GHZ）
 
 Hacktool打缓冲针补丁，显卡HD4000驱动正常，显示PCI信息，注入EDID信息
 
-修改显存2048m
+修改显存2048mb
 
 USB端口定制2.0、3.0正常
 
@@ -40,9 +40,9 @@ ALC269声卡仿冒正常
 
 EC0重命名EC，ACPI添加仿冒SSDT-EC
 
-修改DSDT加载LPC 的硬件 ID加载原生电源管理
+修改DSDT，加载LPC硬件ID加载原生电源管理
 
-变频正常-CPUFried+sSDTPRGen
+变频正常-（CPUFried+sSDTPRGen）
 
 添加亮度DSDT ~HD4000亮度补丁+GFX0重命名IGUP+ACPIBacklight.kext亮度滑块正常。
 
