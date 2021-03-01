@@ -46,6 +46,8 @@ EC0重命名EC，ACPI添加仿冒SSDT-EC
 
 变频正常 (CPUFried+sSDTPRGen)
 
+增加了XMPDetection(只适用DDR3)，即可将内存条自动超频到1600或更高值。
+
 添加亮度DSDT ~HD4000亮度补丁+GFX0重命名IGUP+ACPIBacklight.kext亮度滑块正常。
 
 亮度、声音细腻调节（1/4格）｛小太阳快捷键-功能键+F5、F6，声音快捷键-功能键+F11、F12｝
