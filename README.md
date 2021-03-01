@@ -40,6 +40,8 @@ ALC269声卡仿冒正常
 
 EC0重命名EC，ACPI添加仿冒SSDT-EC
 
+添加了FixEDID修补，提高色彩温和度，增加了桌面分辨率选择
+
 修改DSDT，加载LPC硬件ID加载原生电源管理
 
 变频正常 (CPUFried+sSDTPRGen)
