@@ -52,7 +52,7 @@ EC0重命名EC，ACPI添加仿冒SSDT-EC
 
 亮度、声音细腻调节（1/4格）｛小太阳快捷键-功能键+F5、F6，声音快捷键-功能键+F11、F12｝
 
-添加热补丁SSDT-ALS0+实现亮度保存，及自动调节选项。
+添加热补丁(SSDT-ALS0+SMCLightsensors.kext)实现亮度保存，及自动调节选项。
 
 添加ACPIbatterymanage.kext实现电池百分比正常
 
