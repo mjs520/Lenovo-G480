@@ -15,6 +15,7 @@ CPU    i3-3110-主频（2.4GHZ）
 ![ss](https://github.com/mjs520/Lenovo-G480/blob/main/screenshot0.jpg)
 ![ss](https://github.com/mjs520/Lenovo-G480/blob/main/QQ20210221-103454.png)
 ![ss](https://github.com/mjs520/Lenovo-G480/blob/main/QQ20210208-102305.png)
+![ss](https://github.com/mjs520/Lenovo-G480/blob/main/QQ20210304-143436.png)
 
 
 
